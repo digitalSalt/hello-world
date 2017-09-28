@@ -1,4 +1,6 @@
 # hello-world
 
 zeroth repository
-this is john hello blah blah
+this is john hello blah 
+
+added this code as well as got rid of 1 blah from above
